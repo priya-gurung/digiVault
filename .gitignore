@@ -1,0 +1,35 @@
+# Various IDEs and Editors
+.vscode/
+.idea/
+**/*~
+
+# Mac OSX temporary files
+.DS_Store
+**/.DS_Store
+
+# dfx temporary files
+.dfx/
+out/
+
+# generated files
+**/declarations/
+
+# rust
+target/
+
+# frontend code
+node_modules/
+dist/
+.svelte-kit/
+
+# environment variables
+.env
+
+# Cache
+.cache/
+.next/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
